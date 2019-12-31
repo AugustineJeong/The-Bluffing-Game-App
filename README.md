@@ -28,3 +28,6 @@ https://mega.nz/#!5VNBmIaA!r1RiCAnmS4YiscwDOVSnu8ftMBpj49NhpPY7p0HhY6c
 <img src="https://user-images.githubusercontent.com/14143525/71621427-0a7f1700-2b84-11ea-9304-e0ef4d98f7d6.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621431-0ce17100-2b84-11ea-89a9-5af2ad54882b.PNG" width="250">
 
+## Author
+
+Augustine (Moon Kyu) Jeong
