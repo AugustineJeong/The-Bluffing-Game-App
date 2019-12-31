@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Switch;
 
-import com.example.undercover.Data.ActivePlayers;
 import com.example.undercover.Data.Player;
 
 import java.util.ArrayList;
@@ -48,15 +47,16 @@ public class GameSettings extends AppCompatActivity {
     }
 
     public void setTime(View view) {
-        Player playerOne = new Player(player1.getText().toString());
-        Player playerTwo = new Player(player2.getText().toString());
-        Player playerThree = new Player(player3.getText().toString());
-        Player playerFour = new Player(player4.getText().toString());
-        Player playerFive = new Player(player5.getText().toString());
-        Player playerSix = new Player(player6.getText().toString());
-        Player playerSeven = new Player(player7.getText().toString());
+        String playerOne = player1.getText().toString();
+        String playerTwo = player2.getText().toString();
+        String playerThree = player3.getText().toString();
+        String playerFour = player4.getText().toString();
+        String playerSix = player5.getText().toString();
+        String playerFive = player6.getText().toString();
+        String playerSeven = player7.getText().toString();
 
-        ArrayList activePlayerList = new ArrayList();
+
+        ArrayList<String> activePlayerList = new ArrayList<>();
 
         activePlayerList.add(playerOne);
         activePlayerList.add(playerTwo);
@@ -75,11 +75,14 @@ public class GameSettings extends AppCompatActivity {
             activePlayerList.add(playerSeven);
         }
 
-        ActivePlayers activePlayers = new ActivePlayers();
-        activePlayers.setActivePlayerList(activePlayerList);
-
         Intent intent = new Intent(this, setNumberOfSpies.class);
+        intent.putStringArrayListExtra("key", activePlayerList);
         if (activePlayerList.size() >= 4) {
+            startActivity(intent);
+        } else {
+            intent = new Intent(this, GameStart.class);
+            intent.putStringArrayListExtra("key", activePlayerList);
+            intent.putExtra("isTwoSpies", false);
             startActivity(intent);
         }
     }
