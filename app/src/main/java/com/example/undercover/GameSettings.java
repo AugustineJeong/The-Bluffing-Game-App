@@ -51,8 +51,8 @@ public class GameSettings extends AppCompatActivity {
         String playerTwo = player2.getText().toString();
         String playerThree = player3.getText().toString();
         String playerFour = player4.getText().toString();
-        String playerSix = player5.getText().toString();
-        String playerFive = player6.getText().toString();
+        String playerFive = player5.getText().toString();
+        String playerSix = player6.getText().toString();
         String playerSeven = player7.getText().toString();
 
 

@@ -44,10 +44,11 @@ public class ShowIdentity extends AppCompatActivity {
     }
 
     public void nextPlayer(View view) {
-        
+
         if (this.activePlayerList.size() > 0) {
             Intent intent = new Intent(this, AskRevealIdentity.class);
             intent.putExtra("activePlayerList", this.activePlayerList);
+            intent.putExtra("identity", this.identity);
             startActivity(intent);
         } else {
             Intent intent = new Intent(this, RestartGame.class);
