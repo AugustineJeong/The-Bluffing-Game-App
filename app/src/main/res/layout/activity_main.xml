@@ -19,16 +19,17 @@
 
     <Button
         android:id="@+id/button4"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
+        android:onClick="playGame"
         android:text="PLAY"
-        android:textSize="25dp"
+
         android:textColorHint="#00F07979"
+        android:textSize="25dp"
 
-        style="@style/Widget.AppCompat.Button.Colored"
         android:typeface="monospace"
-
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
