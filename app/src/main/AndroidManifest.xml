@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GameStart"></activity>
+        <activity android:name=".RestartGame"></activity>
+        <activity android:name=".AskRevealIdentity" />
+        <activity android:name=".ShowIdentity" />
+        <activity android:name=".GameStart" />
         <activity android:name=".setNumberOfSpies" />
         <activity android:name=".GameSettings" />
         <activity android:name=".MainActivity">

@@ -65,7 +65,7 @@ public class GameStart extends AppCompatActivity {
     }
 
     public void revealIdentity(View view) {
-        Intent intent = new Intent(this, GameSettings.class);
+        Intent intent = new Intent(this, ShowIdentity.class);
 
         intent.putExtra("identity", this.identity);
         intent.putExtra("activePlayerList", this.activePlayerList);
