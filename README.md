@@ -30,4 +30,4 @@ https://mega.nz/#!5VNBmIaA!r1RiCAnmS4YiscwDOVSnu8ftMBpj49NhpPY7p0HhY6c
 
 ## Author
 
-Augustine (Moon Kyu) Jeong
+Augustine Jeong
