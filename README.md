@@ -1,4 +1,4 @@
-# Undercover!
+# the bluffing game.
 
 A simple game for 3-7 players, where each person other than one (or two) spy gets the same identity (Doctor, Pilot, etc.). The spy has to bluff to not get caught, and other players have to bluff to catch the spy! 
 
