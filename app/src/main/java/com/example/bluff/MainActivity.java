@@ -1,25 +1,20 @@
-package com.example.undercover;
+package com.example.bluff;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 
-public class RestartGame extends AppCompatActivity {
-
-    private Button restartButton;
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_restart_game);
-
-        restartButton = findViewById(R.id.buttonRestart);
+        setContentView(R.layout.activity_main);
     }
 
-    public void restartGame(View view) {
+    public void playGame(View view) {
         Intent intent = new Intent(this, GameSettings.class);
         startActivity(intent);
     }

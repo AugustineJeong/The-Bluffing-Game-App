@@ -1,4 +1,4 @@
-package com.example.undercover;
+package com.example.bluff;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,10 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.undercover.Data.Player;
+import com.example.bluff.Data.Player;
 
-import java.io.Serializable;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class ShowIdentity extends AppCompatActivity {

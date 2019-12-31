@@ -1,4 +1,4 @@
-package com.example.undercover;
+package com.example.bluff;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,10 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.undercover.Data.Assignment;
-import com.example.undercover.Data.Player;
+import com.example.bluff.Data.Assignment;
+import com.example.bluff.Data.Player;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

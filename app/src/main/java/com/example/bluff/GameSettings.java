@@ -1,4 +1,4 @@
-package com.example.undercover;
+package com.example.bluff;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Switch;
-
-import com.example.undercover.Data.Player;
 
 import java.util.ArrayList;
 
