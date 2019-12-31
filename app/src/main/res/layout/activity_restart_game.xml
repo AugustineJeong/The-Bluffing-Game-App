@@ -6,4 +6,22 @@
     android:layout_height="match_parent"
     tools:context=".RestartGame">
 
+    <Button
+        android:id="@+id/buttonRestart"
+
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="restartGame"
+
+
+        android:text="RESTART NEW GAME"
+        android:textColorHint="#00F07979"
+        android:textSize="25dp"
+
+        android:typeface="monospace"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
