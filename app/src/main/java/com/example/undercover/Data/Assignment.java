@@ -14,7 +14,10 @@ public class Assignment implements Iterable<String> {
 
     public Assignment() {
         this.jobsList = Arrays.asList(this.jobs);
-        jobsList.add(5);
+    }
+
+    public List getJobsList() {
+        return jobsList;
     }
 
     @Override

@@ -2,9 +2,12 @@ package com.example.undercover;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
+import com.example.undercover.Data.Assignment;
 import com.example.undercover.Data.Player;
 
 import java.lang.reflect.Array;
@@ -14,8 +17,9 @@ import java.util.Random;
 
 public class GameStart extends AppCompatActivity {
 
-    private List<Player> activePlayerList = new ArrayList<>();
+    private ArrayList<Player> activePlayerList = new ArrayList<>();
     private TextView textView;
+    private String identity;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +50,11 @@ public class GameStart extends AppCompatActivity {
 
         this.activePlayerList.get(randomInt1).setSpy();
 
+        Assignment assignment = new Assignment();
+        List jobsList = assignment.getJobsList();
+
+        int randomJobInt = randomGenerator.nextInt(jobsList.size());
+        this.identity = (String) jobsList.get(randomJobInt);
 
         textView = findViewById(R.id.textView2);
         textView.setText(this.activePlayerList.get(0).getName());
@@ -53,5 +62,14 @@ public class GameStart extends AppCompatActivity {
 
     public List<Player> getActivePlayerList() {
         return activePlayerList;
+    }
+
+    public void revealIdentity(View view) {
+        Intent intent = new Intent(this, GameSettings.class);
+
+        intent.putExtra("identity", this.identity);
+        intent.putExtra("activePlayerList", this.activePlayerList);
+
+        startActivity(intent);
     }
 }
