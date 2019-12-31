@@ -3,6 +3,7 @@ package com.example.undercover;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
 import com.example.undercover.Data.Player;
 
@@ -14,6 +15,7 @@ import java.util.Random;
 public class GameStart extends AppCompatActivity {
 
     private List<Player> activePlayerList = new ArrayList<>();
+    private TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,6 +45,10 @@ public class GameStart extends AppCompatActivity {
         }
 
         this.activePlayerList.get(randomInt1).setSpy();
+
+
+        textView = findViewById(R.id.textView2);
+        textView.setText(this.activePlayerList.get(0).getName());
     }
 
     public List<Player> getActivePlayerList() {
