@@ -14,12 +14,12 @@ Players take turns asking each other questions. If the players with an identity 
 
 ## APK Download Link
 
-https://mega.nz/#!5VNBmIaA!r1RiCAnmS4YiscwDOVSnu8ftMBpj49NhpPY7p0HhY6c
+https://mega.nz/#!dNEUQaBJ!8Xrpaf-L7FVL1boy8O4UhpD4AW8F77kOq3NMjoj2ojk
 
 ## Screenshots 
 
 <div>
-<img src="https://user-images.githubusercontent.com/14143525/71621386-e3c0e080-2b83-11ea-8404-7eb2c8a51ba8.png" width="250">
+<img src="https://user-images.githubusercontent.com/14143525/71778029-27896080-2f5d-11ea-9163-d36957254332.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621387-e6233a80-2b83-11ea-9c53-3a1e5b4aeadf.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621404-f76c4700-2b83-11ea-8d73-58ce2ef56af2.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621394-ed4a4880-2b83-11ea-88ed-93800aeec01b.png" width="250">
