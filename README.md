@@ -15,7 +15,7 @@ As the spy starts with five options to narrow down their choice quickly, but the
 
 ## APK Download Link
 
-https://mega.nz/#!dNEUQaBJ!8Xrpaf-L7FVL1boy8O4UhpD4AW8F77kOq3NMjoj2ojk
+https://play.google.com/store/apps/details?id=com.AugustineLabs.bluff
 
 ## Screenshots 
 
@@ -26,7 +26,7 @@ https://mega.nz/#!dNEUQaBJ!8Xrpaf-L7FVL1boy8O4UhpD4AW8F77kOq3NMjoj2ojk
 <img src="https://user-images.githubusercontent.com/14143525/71621394-ed4a4880-2b83-11ea-88ed-93800aeec01b.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621417-fdfabe80-2b83-11ea-9a26-2f67cbdfc4b4.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71790962-04f05980-2fe8-11ea-89ee-616181b88e74.png" width="250">
-<img src="https://user-images.githubusercontent.com/14143525/71791044-53055d00-2fe8-11ea-9ef5-d0fa4a8c0cee.png" width="250">
+<img src="https://user-images.githubusercontent.com/14143525/71791085-7af4c080-2fe8-11ea-9960-6acdd3ca07f8.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621431-0ce17100-2b84-11ea-89a9-5af2ad54882b.PNG" width="250">
 
 ## Author
