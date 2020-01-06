@@ -1,16 +1,17 @@
 # the bluffing game.
 
-A simple game for 3-7 players, where each person other than one (or two) spy gets the same identity (Doctor, Pilot, etc.). The spy has to bluff to not get caught, and other players have to bluff to catch the spy! 
-
 Instructions:
 
-Players take turns asking each other questions. If the players with an identity can correctly vote who the spy is, the players win! But if the spy correctly guesses the shared identity of the other players, the spy wins! 
+Every player other than the spy (or spies) is given the same identity (ex. Student, Pilot, etc.). The objective of the spy is to guess the shared identity of other players and the objective of other players is to correctly guess and vote who the spy is. 
 
-1. The players only get one chance to vote and if they vote wrong, the spy wins.
-2. If the players vote correctly, but the spy then correctly guesses the players' identity, the spy wins.
-3. If the spy correctly guess the players' identity before the players vote, the spy wins. 
-4. If the spy guesses the players' identity, but gets it wrong, the spy loses.
-5. If the players vote correctly, and the spy then guesses the players' identity but gets it wrong, the spy loses.
+The spy is given five options (ex. Student, Pilot, Chef, Doctor, Cashier), which includes the identity of other players, at the start of the game to help them narrow down their choices. 
+
+As such, there is no time limit for this game. Players can choose to vote for a spy at any time. If the majority of the players correctly vote for the right spy, the spy loses the game. The spy can also choose to guess the other players' identity at any given time, as long as it is before the voting process has started (In other words, as soon as a player says "let's vote", and everyone starts voting for the spy, the spy can no longer make a guess). If the spy correctly guesses the identity of other players, the spy wins. 
+
+Unless a majority opinion is not formed, the players can only vote once. A spy can also only guess other players' identity once. If the players mistakenly vote someone who is not a spy as a spy, the spy automatically wins. Likewise, if the spy mistakenly guesses a wrong identity, the spy automatically loses. 
+
+
+As the spy starts with five options to narrow down their choice quickly, but the spy can only guess before the voting process has started, both the spy and other players are encouraged to play aggressively.
 
 ## APK Download Link
 
