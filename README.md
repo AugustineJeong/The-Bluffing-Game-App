@@ -25,7 +25,6 @@ https://mega.nz/#!dNEUQaBJ!8Xrpaf-L7FVL1boy8O4UhpD4AW8F77kOq3NMjoj2ojk
 <img src="https://user-images.githubusercontent.com/14143525/71621404-f76c4700-2b83-11ea-8d73-58ce2ef56af2.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621394-ed4a4880-2b83-11ea-88ed-93800aeec01b.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621417-fdfabe80-2b83-11ea-9a26-2f67cbdfc4b4.png" width="250">
-<img src="https://user-images.githubusercontent.com/14143525/71621421-0521cc80-2b84-11ea-8f89-9c4e46860d36.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71790962-04f05980-2fe8-11ea-89ee-616181b88e74.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621431-0ce17100-2b84-11ea-89a9-5af2ad54882b.PNG" width="250">
 
