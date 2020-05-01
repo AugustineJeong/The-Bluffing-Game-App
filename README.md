@@ -28,6 +28,7 @@ https://play.google.com/store/apps/details?id=com.AugustineLabs.bluff
 <img src="https://user-images.githubusercontent.com/14143525/80803409-0af5e180-8b67-11ea-9c7e-ab3ac1f869e8.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71791085-7af4c080-2fe8-11ea-9960-6acdd3ca07f8.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/80803498-4d1f2300-8b67-11ea-8e6b-05d2ca562c40.png" width="250">
+<img src="https://user-images.githubusercontent.com/14143525/80803498-4d1f2300-8b67-11ea-8e6b-05d2ca562c40.png" width="250">
 
 ## Author
 
