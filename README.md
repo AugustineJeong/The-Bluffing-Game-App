@@ -20,12 +20,12 @@ https://play.google.com/store/apps/details?id=com.AugustineLabs.bluff
 ## Screenshots 
 
 <div>
-<img src="https://user-images.githubusercontent.com/14143525/71778029-27896080-2f5d-11ea-9163-d36957254332.png" width="250">
+<img src="https://user-images.githubusercontent.com/14143525/80803410-0cbfa500-8b67-11ea-8088-fa7742f0a832.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621387-e6233a80-2b83-11ea-9c53-3a1e5b4aeadf.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621404-f76c4700-2b83-11ea-8d73-58ce2ef56af2.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621394-ed4a4880-2b83-11ea-88ed-93800aeec01b.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621417-fdfabe80-2b83-11ea-9a26-2f67cbdfc4b4.png" width="250">
-<img src="https://user-images.githubusercontent.com/14143525/71790962-04f05980-2fe8-11ea-89ee-616181b88e74.png" width="250">
+<img src="https://user-images.githubusercontent.com/14143525/80803409-0af5e180-8b67-11ea-9c7e-ab3ac1f869e8.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71791085-7af4c080-2fe8-11ea-9960-6acdd3ca07f8.png" width="250">
 <img src="https://user-images.githubusercontent.com/14143525/71621431-0ce17100-2b84-11ea-89a9-5af2ad54882b.PNG" width="250">
 
