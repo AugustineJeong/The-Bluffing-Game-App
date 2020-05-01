@@ -8,21 +8,21 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="183dp"
-        android:layout_height="271dp"
+        android:layout_width="185dp"
+        android:layout_height="194dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.36"
-        app:srcCompat="@drawable/whitehatspy" />
+        app:srcCompat="@drawable/spy_image" />
 
     <Button
         android:id="@+id/button4"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="75dp"
         android:onClick="playGame"
         android:text="PLAY"
 
