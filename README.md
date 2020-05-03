@@ -1,6 +1,6 @@
 # the bluffing game.
 
-**Instructions:**
+## Instructions
 
 Every player other than the spy (or spies) is given the same identity (ex. Student, Pilot, etc.). The objective of the spy is to guess the shared identity of other players and the objective of other players is to correctly guess and vote who the spy is. 
 
