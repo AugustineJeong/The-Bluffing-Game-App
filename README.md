@@ -4,6 +4,8 @@
 
 Every player other than the spy (or spies) is given the same identity (ex. Student, Pilot, etc.). The objective of the spy is to guess the shared identity of other players and the objective of other players is to correctly guess and vote who the spy is. 
 
+The players take turns asking each other questions about their identity. The spy must ask questions to discover the identity of other players without exposing themself as the spy. Other players must ask questions to find the spy without exposing their identity to the spy.
+
 The spy is given five options (ex. Student, Pilot, Chef, Doctor, Cashier), which includes the identity of other players, at the start of the game to help them narrow down their choices. 
 
 As such, there is no time limit for this game. Players can choose to vote for a spy at any time. (At any point during the game, the players may say "I vote 'Player A' as the spy.) If the majority of the players correctly vote for the right spy, the spy loses the game. The spy can also choose to guess the other players' identity at any given time, as long as it is before a majority decision has been formed. If the spy correctly guesses the identity of other players, the spy wins. 
