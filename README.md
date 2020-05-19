@@ -8,7 +8,7 @@ The spy is given five options (ex. Student, Pilot, Chef, Doctor, Cashier), which
 
 As such, there is no time limit for this game. Players can choose to vote for a spy at any time. (At any point during the game, the players may say "I vote 'Player A' as the spy.) If the majority of the players correctly vote for the right spy, the spy loses the game. The spy can also choose to guess the other players' identity at any given time, as long as it is before a majority decision has been formed. If the spy correctly guesses the identity of other players, the spy wins. 
 
-Unless a majority opinion is not formed, the players can only vote once. A spy can also only guess other players' identity once. If the players mistakenly vote someone who is not a spy as a spy, the spy automatically wins. Likewise, if the spy mistakenly guesses a wrong identity, the spy automatically loses. 
+Unless a majority decision is not formed, or it is impossible for such decision to be formed, the players can only vote once. A spy can only guess other players' identity once, under any circumstances. If the majority of the players mistakenly vote someone who is not a spy as a spy, the spy automatically wins. Likewise, if the spy mistakenly guesses a wrong identity, the spy automatically loses. 
 
 
 As the spy starts with five options to narrow down their choice quickly, but the spy can only guess before the voting process has started, both the spy and other players are encouraged to play aggressively.
