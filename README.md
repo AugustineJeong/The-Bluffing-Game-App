@@ -11,7 +11,7 @@ As such, there is no time limit for this game. Players can choose to vote for a 
 Unless a majority decision is not formed, or it is impossible for such decision to be formed, the players can only vote once. A spy can only guess other players' identity once, under any circumstances. If the majority of the players mistakenly vote someone who is not a spy as a spy, the spy automatically wins. Likewise, if the spy mistakenly guesses a wrong identity, the spy automatically loses. 
 
 
-As the spy starts with five options to narrow down their choice quickly, but the spy can only guess before the voting process has started, both the spy and other players are encouraged to play aggressively.
+As the spy starts with five options to narrow down their choice quickly, but the spy can only guess before a majority decision (vote) has been formed, both the spy and other players are encouraged to play aggressively.
 
 ## APK Download Link
 
